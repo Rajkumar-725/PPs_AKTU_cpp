@@ -3,6 +3,7 @@ WAP that accepts the marks of 5 subjects and finds the sum and percentage marks 
 by the student.
 */
 
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
